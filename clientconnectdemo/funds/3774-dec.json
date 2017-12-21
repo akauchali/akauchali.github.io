@@ -1,0 +1,747 @@
+{  
+   "FactSheetCIS":{  
+      "fundDetails":{  
+         "Objective":"To assist investors to reach a return after fees of CPI +6% p.a. over rolling 7 year periods, through a spectrum of investments in the equity, bond, money or property markets and participatory interests in related collective investment scheme.",
+         "UnderlyingOrPortfolioManagers":"Melville Douglas Investment Management (Pty) Ltd",
+         "UnderlyingOrPortfolioManagers2":"Prescient Investment Management (Pty) Ltd",
+         "UnderlyingOrPortfolioManagers3":"BlackRock Investment Management (UK)",
+         "UnderlyingOrPortfolioManagers4":"Coronation Asset Management (Pty) Ltd",
+         "UnderlyingOrPortfolioManagers5":"Sesfikile Capital (Pty) Ltd",
+         "FundClassLaunchDate":"1 October 2013",
+         "FundSize":"R92 430 682 ",
+         "FundSector":"South African - Multi Asset - High Equity",
+         "Benchmark":"Median of sector",
+         "Reg28Compliance":"Compliant",
+         "IncomeDistributionDates":"Semi annually (Feb and Aug)",
+         "InvestmentHorizon":"Long term - 7 year rolling periods or longer",
+         "OfficialCode":"HPACE",
+         "ISIN":"ZAE000182168",
+         "PricePerUnit":"128.85 cents"
+      },
+      "performance":{  
+         "periods":[  
+            {  
+               "period":"1 month",
+               "Fund":3.58,
+               "Benchmark":2.74
+            },
+            {  
+               "period":"3 months",
+               "Fund":6.73,
+               "Benchmark":6.77
+            },
+            {  
+               "period":"6 months",
+               "Fund":4.47,
+               "Benchmark":4.72
+            },
+            {  
+               "period":"Year to date",
+               "Fund":3.81,
+               "Benchmark":4.78
+            },
+            {  
+               "period":"1 year",
+               "Fund":8.99,
+               "Benchmark":7.32
+            },
+            {  
+               "period":"2 years annualised",
+               "Fund":11.32,
+               "Benchmark":8.87
+            },
+            {  
+               "period":"Since inception annualised (32 months)",
+               "Fund":12.28,
+               "Benchmark":10.42
+            },
+            {  
+               "period":"Since inception cumulative (32 months)",
+               "Fund":36.19,
+               "Benchmark":30.27
+            }
+         ],
+         "cumulative":[  
+            {  
+               "month":"2013-09-30",
+               "Fund":100,
+               "Benchmark":100
+            },
+            {  
+               "month":"2013-10-31",
+               "Fund":102.31,
+               "Benchmark":102.5702
+            },
+            {  
+               "month":"2013-11-30",
+               "Fund":102.48,
+               "Benchmark":102.2227
+            },
+            {  
+               "month":"2013-12-31",
+               "Fund":105.07,
+               "Benchmark":104.6763
+            },
+            {  
+               "month":"2014-01-31",
+               "Fund":103.53,
+               "Benchmark":103.7938
+            },
+            {  
+               "month":"2014-02-28",
+               "Fund":104.99,
+               "Benchmark":105.5609
+            },
+            {  
+               "month":"2014-03-31",
+               "Fund":106.4,
+               "Benchmark":106.9916
+            },
+            {  
+               "month":"2014-04-30",
+               "Fund":107.93,
+               "Benchmark":108.6147
+            },
+            {  
+               "month":"2014-05-31",
+               "Fund":109.89,
+               "Benchmark":109.9045
+            },
+            {  
+               "month":"2014-06-30",
+               "Fund":112.15,
+               "Benchmark":111.4846
+            },
+            {  
+               "month":"2014-07-31",
+               "Fund":113.41,
+               "Benchmark":112.6409
+            },
+            {  
+               "month":"2014-08-31",
+               "Fund":113.31,
+               "Benchmark":112.4512
+            },
+            {  
+               "month":"2014-09-30",
+               "Fund":114.3067,
+               "Benchmark":112.0151
+            },
+            {  
+               "month":"2014-10-31",
+               "Fund":115.1141,
+               "Benchmark":112.3053
+            },
+            {  
+               "month":"2014-11-30",
+               "Fund":116.3857,
+               "Benchmark":113.9549
+            },
+            {  
+               "month":"2014-12-31",
+               "Fund":117.1729,
+               "Benchmark":114.7659
+            },
+            {  
+               "month":"2015-01-31",
+               "Fund":119.3933,
+               "Benchmark":116.8811
+            },
+            {  
+               "month":"2015-02-28",
+               "Fund":123.5211,
+               "Benchmark":119.4923
+            },
+            {  
+               "month":"2015-03-31",
+               "Fund":124.475,
+               "Benchmark":120.2423
+            },
+            {  
+               "month":"2015-04-30",
+               "Fund":127.0979,
+               "Benchmark":122.9873
+            },
+            {  
+               "month":"2015-05-31",
+               "Fund":124.9565,
+               "Benchmark":121.3879
+            },
+            {  
+               "month":"2015-06-30",
+               "Fund":124.2086,
+               "Benchmark":120.1839
+            },
+            {  
+               "month":"2015-07-31",
+               "Fund":126.9749,
+               "Benchmark":121.4993
+            },
+            {  
+               "month":"2015-08-31",
+               "Fund":124.1164,
+               "Benchmark":119.8625
+            },
+            {  
+               "month":"2015-09-30",
+               "Fund":123.7827,
+               "Benchmark":119.3418
+            },
+            {  
+               "month":"2015-10-31",
+               "Fund":129.7206,
+               "Benchmark":125.2921
+            },
+            {  
+               "month":"2015-11-30",
+               "Fund":130.3642,
+               "Benchmark":124.3946
+            },
+            {  
+               "month":"2015-12-31",
+               "Fund":131.1947,
+               "Benchmark":124.3318
+            },
+            {  
+               "month":"2016-01-31",
+               "Fund":128.0493,
+               "Benchmark":121.4185
+            },
+            {  
+               "month":"2016-02-29",
+               "Fund":127.6029,
+               "Benchmark":122.0114
+            },
+            {  
+               "month":"2016-03-31",
+               "Fund":131.3473,
+               "Benchmark":126.1297
+            },
+            {  
+               "month":"2016-04-30",
+               "Fund":131.4847,
+               "Benchmark":126.8016
+            },
+            {  
+               "month":"2016-05-31",
+               "Fund":136.1882,
+               "Benchmark":130.2703
+            }
+         ],
+         "maximumDrawDowns":[  
+            {  
+               "month":"2013-09-30",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2013-10-31",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2013-11-30",
+               "Fund":0,
+               "Benchmark":-0.3388
+            },
+            {  
+               "month":"2013-12-31",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2014-01-31",
+               "Fund":-1.4657,
+               "Benchmark":-0.8431
+            },
+            {  
+               "month":"2014-02-28",
+               "Fund":-0.0761,
+               "Benchmark":0
+            },
+            {  
+               "month":"2014-03-31",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2014-04-30",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2014-05-31",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2014-06-30",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2014-07-31",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2014-08-31",
+               "Fund":-0.0882,
+               "Benchmark":-0.1684
+            },
+            {  
+               "month":"2014-09-30",
+               "Fund":0,
+               "Benchmark":-0.5556
+            },
+            {  
+               "month":"2014-10-31",
+               "Fund":0,
+               "Benchmark":-0.298
+            },
+            {  
+               "month":"2014-11-30",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2014-12-31",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2015-01-31",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2015-02-28",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2015-03-31",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2015-04-30",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2015-05-31",
+               "Fund":-1.6848,
+               "Benchmark":-1.3005
+            },
+            {  
+               "month":"2015-06-30",
+               "Fund":-2.2733,
+               "Benchmark":-2.2794
+            },
+            {  
+               "month":"2015-07-31",
+               "Fund":-0.0967,
+               "Benchmark":-1.2098
+            },
+            {  
+               "month":"2015-08-31",
+               "Fund":-2.3458,
+               "Benchmark":-2.5408
+            },
+            {  
+               "month":"2015-09-30",
+               "Fund":-2.6084,
+               "Benchmark":-2.9641
+            },
+            {  
+               "month":"2015-10-31",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2015-11-30",
+               "Fund":0,
+               "Benchmark":-0.7163
+            },
+            {  
+               "month":"2015-12-31",
+               "Fund":0,
+               "Benchmark":-0.7664
+            },
+            {  
+               "month":"2016-01-31",
+               "Fund":-2.3975,
+               "Benchmark":-3.0916
+            },
+            {  
+               "month":"2016-02-29",
+               "Fund":-2.7378,
+               "Benchmark":-2.6185
+            },
+            {  
+               "month":"2016-03-31",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2016-04-30",
+               "Fund":0,
+               "Benchmark":0
+            },
+            {  
+               "month":"2016-05-31",
+               "Fund":0,
+               "Benchmark":0
+            }
+         ],
+         "riskStats":[  
+            {  
+               "riskElementName":"Monthly standard deviation annualised (%)",
+               "riskValueFund":5.75,
+               "riskValueBenchmark":5.39
+            },
+            {  
+               "riskElementName":"Positive months (%)",
+               "riskValueFund":75.00,
+               "riskValueBenchmark":65.63
+            },
+            {  
+               "riskElementName":"Maximum drawdown (%)",
+               "riskValueFund":-2.74,
+               "riskValueBenchmark":-3.09
+            },
+            {  
+               "riskElementName":"Outperformance annualised (%)",
+               "riskValueFund":1.86,
+               "riskValueBenchmark":null
+            },
+            {  
+               "riskElementName":"Months outperformed benchmark (%)",
+               "riskValueFund":53.13,
+               "riskValueBenchmark":null
+            },
+            {  
+               "riskElementName":"Highest Annual Performance (%) *",
+               "riskValueFund":17.76,
+               "riskValueBenchmark":13.23
+            },
+            {  
+               "riskElementName":"Lowest Annual Performance (%) **",
+               "riskValueFund":3.3,
+               "riskValueBenchmark":2.11
+            }
+         ]
+      },
+      "exposure":{  
+         "assetClasses":[  
+            {  
+               "exposure":"South African Equity",
+               "val":33.6715
+            },
+            {  
+               "exposure":"Global  Equity",
+               "val":23.2664
+            },
+            {  
+               "exposure":"South African Bonds",
+               "val":21.4265
+            },
+            {  
+               "exposure":"South African Cash",
+               "val":9.8099
+            },
+            {  
+               "exposure":"South African Property",
+               "val":7.152
+            },
+            {  
+               "exposure":"Global  Bonds",
+               "val":3.7509
+            },
+            {  
+               "exposure":"Global  Property",
+               "val":"0.6102"
+            },
+            {  
+               "exposure":"Global  Cash",
+               "val":"0.2632"
+            },
+            {  
+               "exposure":"South African Derivatives",
+               "val":"0.0411"
+            },
+            {  
+               "exposure":"Global  Derivatives",
+               "val":"0.0054"
+            },
+            {  
+               "exposure":"Global  Other",
+               "val":"0.0031"
+            }
+         ],
+         "sectors":[  
+            {  
+               "exposure":"Bonds",
+               "val":25.1774
+            },
+            {  
+               "exposure":"Cash",
+               "val":10.0731
+            },
+            {  
+               "exposure":"Real Estate",
+               "val":7.6589
+            },
+            {  
+               "exposure":"Personal & Household Goods",
+               "val":6.2053
+            },
+            {  
+               "exposure":"Food & Beverage",
+               "val":6.1259
+            },
+            {  
+               "exposure":"Health Care",
+               "val":5.5973
+            },
+            {  
+               "exposure":"Equity",
+               "val":5.5567
+            },
+            {  
+               "exposure":"Media",
+               "val":4.4795
+            },
+            {  
+               "exposure":"Banks",
+               "val":4.2295
+            },
+            {  
+               "exposure":"Technology",
+               "val":3.9863
+            },
+            {  
+               "exposure":"Industrial Goods & Services",
+               "val":3.4261
+            },
+            {  
+               "exposure":"Oil & Gas",
+               "val":3.1213
+            },
+            {  
+               "exposure":"Insurance",
+               "val":3.0331
+            },
+            {  
+               "exposure":"Travel & Leisure",
+               "val":2.9079
+            },
+            {  
+               "exposure":"Basic Resources",
+               "val":2.3669
+            },
+            {  
+               "exposure":"Retail",
+               "val":2.3495
+            },
+            {  
+               "exposure":"Financial Services",
+               "val":"0.874"
+            },
+            {  
+               "exposure":"Utilities",
+               "val":"0.7056"
+            },
+            {  
+               "exposure":"Telecommunications",
+               "val":"0.6803"
+            },
+            {  
+               "exposure":"Automobiles & Parts",
+               "val":"0.537"
+            },
+            {  
+               "exposure":"Chemicals",
+               "val":"0.4665"
+            },
+            {  
+               "exposure":"Construction & Materials",
+               "val":"0.2892"
+            },
+            {  
+               "exposure":"Property",
+               "val":"0.1033"
+            },
+            {  
+               "exposure":"Derivatives",
+               "val":"0.0465"
+            },
+            {  
+               "exposure":"Other",
+               "val":"0.0031"
+            }
+         ],
+         "creditRatings":[  
+            {  
+               "exposure":"Unrated",
+               "val":58.9264
+            },
+            {  
+               "exposure":"A-",
+               "val":5.238
+            },
+            {  
+               "exposure":null,
+               "val":4.7246
+            },
+            {  
+               "exposure":"BBB+",
+               "val":4.5195
+            },
+            {  
+               "exposure":"IG7",
+               "val":4.4988
+            },
+            {  
+               "exposure":"BBB-",
+               "val":3.9914
+            },
+            {  
+               "exposure":"A+",
+               "val":3.5165
+            },
+            {  
+               "exposure":"IG8",
+               "val":3.0601
+            },
+            {  
+               "exposure":"IG6",
+               "val":2.6282
+            },
+            {  
+               "exposure":"AA-(zaf)",
+               "val":2.2202
+            },
+            {  
+               "exposure":"BBB",
+               "val":2.0861
+            },
+            {  
+               "exposure":"BB+",
+               "val":1.4031
+            },
+            {  
+               "exposure":"IG4",
+               "val":1.2743
+            },
+            {  
+               "exposure":"AA-",
+               "val":"0.96"
+            },
+            {  
+               "exposure":"Baa3",
+               "val":"0.7879"
+            },
+            {  
+               "exposure":"IG5",
+               "val":"0.1651"
+            }
+         ],
+         "managers":[  
+            {  
+               "exposure":"Melville Douglas Investment Management (Pty) Ltd",
+               "val":43.019
+            },
+            {  
+               "exposure":"Prescient Investment Management (Pty) Ltd",
+               "val":25.3974
+            },
+            {  
+               "exposure":"BlackRock Investment Management (UK)",
+               "val":19.6288
+            },
+            {  
+               "exposure":"Coronation Asset Management (Pty) Ltd",
+               "val":6.0956
+            },
+            {  
+               "exposure":"Sesfikile Capital (Pty) Ltd",
+               "val":5.0387
+            }
+         ],
+         "underlyingFunds":[  
+            {  
+               "exposure":"Hollard Prime Equity D",
+               "val":43.019
+            },
+            {  
+               "exposure":"Hollard Prime Dynamic Income D",
+               "val":25.395
+            },
+            {  
+               "exposure":"BlackRock Developed World Index Sub Flex Acc USD",
+               "val":19.6288
+            },
+            {  
+               "exposure":"Hollard Prime Yield-Plus D",
+               "val":6.0956
+            },
+            {  
+               "exposure":"Hollard Prime Property D",
+               "val":5.0387
+            },
+            {  
+               "exposure":"Capital Account",
+               "val":"0.8207"
+            },
+            {  
+               "exposure":"Hollard Prime Equity D",
+               "val":"0.0024"
+            }
+         ],
+         "topHoldings":[  
+            {  
+               "exposure":"Cash",
+               "val":4.6332
+            },
+            {  
+               "exposure":"Db X-trackers Col In Wld",
+               "val":4.5195
+            },
+            {  
+               "exposure":"Naspers Limited",
+               "val":3.9914
+            },
+            {  
+               "exposure":"Prescient Flexible Global Income USD Fund ZAR Class D",
+               "val":3.7509
+            },
+            {  
+               "exposure":"BHP Billiton Plc",
+               "val":2.0976
+            },
+            {  
+               "exposure":"British American Tobacco Plc",
+               "val":2.0097
+            },
+            {  
+               "exposure":"SAB Miller Plc",
+               "val":1.8939
+            },
+            {  
+               "exposure":"Sasol Limited",
+               "val":1.8845
+            },
+            {  
+               "exposure":"Mediclinic International PLC",
+               "val":1.7277
+            },
+            {  
+               "exposure":"Mr Price Group Ltd",
+               "val":1.6566
+            }
+         ]
+      }
+   }
+}
