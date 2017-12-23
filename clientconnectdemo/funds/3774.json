@@ -2,7 +2,7 @@
     "FactSheetCIS": {
         "fundDetails": {
             "Benchmark": "Median of Sector",
-            "dataDate": "Dec 23 2017 12:21PM",
+            "dataDate": "Dec 23 2017  9:49PM",
             "factsheetDate": "31 Oct 2017",
             "fundClass": "E",
             "FundClassLaunchDate": "1 September 2013",
@@ -78,49 +78,52 @@
         "performance": {
             "periods": [
                 {
-                    "period": "1 month",
+                    "periodLong": "1 month",
+                    "Period": "1m",
                     "Fund": 4.3266,
                     "Benchmark": 5.3364
                 },
                 {
-                    "period": "3 months",
+                    "periodLong": "3 months",
+                    "Period": "3m",
                     "Fund": 5.4492,
                     "Benchmark": 6.2397
                 },
                 {
-                    "period": "6 months",
+                    "periodLong": "6 months",
+                    "Period": "6m",
                     "Fund": 7.2121,
                     "Benchmark": 6.9246
                 },
                 {
-                    "period": "Year to date",
+                    "periodLong": "Year to date",
+                    "Period": "ytd",
                     "Fund": 13.8986,
                     "Benchmark": 12.5687
                 },
                 {
-                    "period": "1 year",
+                    "periodLong": "1 year",
+                    "Period": "1y",
                     "Fund": 13.2476,
                     "Benchmark": 13.0286
                 },
                 {
-                    "period": "2 years annualised",
+                    "periodLong": "2 years annualised",
+                    "Period": "2y ann",
                     "Fund": 5.5615,
                     "Benchmark": 4.076
                 },
                 {
-                    "period": "3 years annualised",
+                    "periodLong": "3 years annualised",
+                    "Period": "3y ann",
                     "Fund": 6.5451,
                     "Benchmark": 5.6364
                 },
                 {
-                    "period": "Since inception annualised (49 months)",
+                    "periodLong": "Since inception annualised (49 months)",
+                    "Period": "since inc. ann",
                     "Fund": 9.5017,
                     "Benchmark": 7.7831
-                },
-                {
-                    "period": "Since inception cumulative (49 months)",
-                    "Fund": 44.8668,
-                    "Benchmark": 35.805
                 }
             ],
             "cumulative": [
@@ -690,300 +693,300 @@
         "exposure": {
             "assetClasses": [
                 {
-                    "exposure": "South African Equity",
-                    "val": 90.916
+                    "exposure": "South African Property",
+                    "val": 3.7825
                 },
                 {
                     "exposure": "South African Cash",
                     "val": 5.3013
                 },
                 {
-                    "exposure": "South African Property",
-                    "val": 3.7825
+                    "exposure": "South African Equity",
+                    "val": 90.916
                 }
             ],
             "sectors": [
                 {
-                    "exposure": "SMM Equity Index B6",
-                    "val": 17.4459
-                },
-                {
-                    "exposure": "Media",
-                    "val": 10.4503
-                },
-                {
-                    "exposure": "Basic Resources",
-                    "val": 9.8469
-                },
-                {
-                    "exposure": "Personal & Household Goods",
-                    "val": 7.7081
-                },
-                {
-                    "exposure": "Banks",
-                    "val": 7.3599
-                },
-                {
-                    "exposure": "Food & Beverage",
-                    "val": 6.8556
-                },
-                {
-                    "exposure": "Insurance",
-                    "val": 6.7732
-                },
-                {
-                    "exposure": "Industrial Goods & Services",
-                    "val": 5.6417
-                },
-                {
-                    "exposure": "Cash",
-                    "val": 5.3013
-                },
-                {
-                    "exposure": "Technology",
-                    "val": 4.7501
-                },
-                {
-                    "exposure": "Retail",
-                    "val": 4.5108
-                },
-                {
-                    "exposure": "Health Care",
-                    "val": 4.3148
-                },
-                {
-                    "exposure": "Real Estate",
-                    "val": 3.7825
+                    "exposure": "Financial Services",
+                    "val": 2.0625
                 },
                 {
                     "exposure": "Travel & Leisure",
                     "val": 3.1962
                 },
                 {
-                    "exposure": "Financial Services",
-                    "val": 2.0625
-                }
-            ],
-            "creditRatings": [
-                {
-                    "exposure": "Unrated",
-                    "val": 29.689
+                    "exposure": "Real Estate",
+                    "val": 3.7825
                 },
                 {
-                    "exposure": "BBB-",
-                    "val": 13.1066
+                    "exposure": "Health Care",
+                    "val": 4.3148
                 },
                 {
-                    "exposure": "A+",
-                    "val": 9.0245
+                    "exposure": "Retail",
+                    "val": 4.5108
                 },
                 {
-                    "exposure": "A-",
-                    "val": 8.013
-                },
-                {
-                    "exposure": "IG8",
-                    "val": 7.9047
-                },
-                {
-                    "exposure": "IG7",
-                    "val": 5.5214
-                },
-                {
-                    "exposure": "IG6",
-                    "val": 5.1899
-                },
-                {
-                    "exposure": "AA-(zaf)",
-                    "val": 4.737
-                },
-                {
-                    "exposure": "BB+",
-                    "val": 4.0238
-                },
-                {
-                    "exposure": "Baa2",
-                    "val": 2.8872
-                },
-                {
-                    "exposure": "IG3",
-                    "val": 2.0625
-                },
-                {
-                    "exposure": "Baa3",
-                    "val": 2.0362
-                },
-                {
-                    "exposure": "IG4",
-                    "val": 1.5326
-                },
-                {
-                    "exposure": "AA-",
-                    "val": 1.5153
-                },
-                {
-                    "exposure": "BBB+",
-                    "val": 1.4801
-                },
-                {
-                    "exposure": "A",
-                    "val": 1.0155
-                },
-                {
-                    "exposure": "IG5",
-                    "val": 0.2605
-                }
-            ],
-            "managers": [
-                {
-                    "exposure": "Melville Douglas Investment Management (Pty) Ltd",
-                    "val": 82.5539
-                },
-                {
-                    "exposure": "Sanlam Multi Manager International (Pty) Limited",
-                    "val": 17.4459
-                }
-            ],
-            "underlyingFunds": [
-                {
-                    "exposure": "SMM Equity Index B6",
-                    "val": 17.4459
-                },
-                {
-                    "exposure": "Naspers Limited",
-                    "val": 10.4503
+                    "exposure": "Technology",
+                    "val": 4.7501
                 },
                 {
                     "exposure": "Cash",
                     "val": 5.3013
                 },
                 {
-                    "exposure": "British American Tobacco Plc",
-                    "val": 5.1962
+                    "exposure": "Industrial Goods & Services",
+                    "val": 5.6417
                 },
                 {
-                    "exposure": "BHP Billiton Plc",
-                    "val": 5.0105
+                    "exposure": "Insurance",
+                    "val": 6.7732
                 },
                 {
-                    "exposure": "Firstrand Limited",
-                    "val": 4.0238
+                    "exposure": "Food & Beverage",
+                    "val": 6.8556
                 },
                 {
-                    "exposure": "Standard Bank Group Limited",
-                    "val": 3.3361
+                    "exposure": "Banks",
+                    "val": 7.3599
                 },
                 {
-                    "exposure": "EOH Ltd",
-                    "val": 3.0095
+                    "exposure": "Personal & Household Goods",
+                    "val": 7.7081
                 },
                 {
-                    "exposure": "Santam Ltd",
-                    "val": 2.9655
+                    "exposure": "Basic Resources",
+                    "val": 9.8469
                 },
                 {
-                    "exposure": "Aspen Pharmacare Holdings",
-                    "val": 2.8168
+                    "exposure": "Media",
+                    "val": 10.4503
                 },
                 {
-                    "exposure": "Anheusher-Busch Inbev SA/NV",
-                    "val": 2.7632
+                    "exposure": "SMM Equity Index B6",
+                    "val": 17.4459
+                }
+            ],
+            "creditRatings": [
+                {
+                    "exposure": "IG5",
+                    "val": 0.2605
                 },
                 {
-                    "exposure": "Nepi Rockcastle PLC",
-                    "val": 2.6806
-                },
-                {
-                    "exposure": "Anglo American Plc",
-                    "val": 2.649
-                },
-                {
-                    "exposure": "Compagnie Fin Richemont",
-                    "val": 2.5119
-                },
-                {
-                    "exposure": "Mondi Plc Pre",
-                    "val": 2.1874
-                },
-                {
-                    "exposure": "Coronation Fund Managers Limited",
-                    "val": 2.0625
-                },
-                {
-                    "exposure": "Avi Ltd",
-                    "val": 2.042
-                },
-                {
-                    "exposure": "Old Mutual Plc",
-                    "val": 2.0362
-                },
-                {
-                    "exposure": "Hudaco Industries Limited",
-                    "val": 2.0225
-                },
-                {
-                    "exposure": "Woolworths Holdings Limited",
-                    "val": 2.011
-                },
-                {
-                    "exposure": "The Bidvest Group Limited",
-                    "val": 1.8361
-                },
-                {
-                    "exposure": "Bid Corporation Ltd",
-                    "val": 1.7758
-                },
-                {
-                    "exposure": "Sanlam Limited",
-                    "val": 1.7715
-                },
-                {
-                    "exposure": "City Lodge Hotels Limited",
-                    "val": 1.6636
-                },
-                {
-                    "exposure": "Famous Brands Ltd",
-                    "val": 1.5326
-                },
-                {
-                    "exposure": "Tiger Brands Ltd",
-                    "val": 1.5153
-                },
-                {
-                    "exposure": "Ascendis Health Ltd",
-                    "val": 1.498
-                },
-                {
-                    "exposure": "The Spar Group Ltd",
-                    "val": 1.4843
-                },
-                {
-                    "exposure": "Vodacom Group Limited",
-                    "val": 1.4801
-                },
-                {
-                    "exposure": "The Foschini Group Ltd",
+                    "exposure": "A",
                     "val": 1.0155
                 },
                 {
-                    "exposure": "Growthpoint Properties Limited",
-                    "val": 0.6998
+                    "exposure": "BBB+",
+                    "val": 1.4801
                 },
                 {
-                    "exposure": "Rhodes Food Grp Hldg Ltd",
-                    "val": 0.5351
+                    "exposure": "AA-",
+                    "val": 1.5153
                 },
                 {
-                    "exposure": "Resilient Property Income Fund",
-                    "val": 0.4021
+                    "exposure": "IG4",
+                    "val": 1.5326
+                },
+                {
+                    "exposure": "Baa3",
+                    "val": 2.0362
+                },
+                {
+                    "exposure": "IG3",
+                    "val": 2.0625
+                },
+                {
+                    "exposure": "Baa2",
+                    "val": 2.8872
+                },
+                {
+                    "exposure": "BB+",
+                    "val": 4.0238
+                },
+                {
+                    "exposure": "AA-(zaf)",
+                    "val": 4.737
+                },
+                {
+                    "exposure": "IG6",
+                    "val": 5.1899
+                },
+                {
+                    "exposure": "IG7",
+                    "val": 5.5214
+                },
+                {
+                    "exposure": "IG8",
+                    "val": 7.9047
+                },
+                {
+                    "exposure": "A-",
+                    "val": 8.013
+                },
+                {
+                    "exposure": "A+",
+                    "val": 9.0245
+                },
+                {
+                    "exposure": "BBB-",
+                    "val": 13.1066
+                },
+                {
+                    "exposure": "Unrated",
+                    "val": 29.689
+                }
+            ],
+            "managers": [
+                {
+                    "exposure": "Sanlam Multi Manager International (Pty) Limited",
+                    "val": 17.4459
+                },
+                {
+                    "exposure": "Melville Douglas Investment Management (Pty) Ltd",
+                    "val": 82.5539
+                }
+            ],
+            "underlyingFunds": [
+                {
+                    "exposure": "Novus Holdings Limited",
+                    "val": 0.0073
                 },
                 {
                     "exposure": "Adaptit Holdings Ltd",
                     "val": 0.2605
                 },
                 {
-                    "exposure": "Novus Holdings Limited",
-                    "val": 0.0073
+                    "exposure": "Resilient Property Income Fund",
+                    "val": 0.4021
+                },
+                {
+                    "exposure": "Rhodes Food Grp Hldg Ltd",
+                    "val": 0.5351
+                },
+                {
+                    "exposure": "Growthpoint Properties Limited",
+                    "val": 0.6998
+                },
+                {
+                    "exposure": "The Foschini Group Ltd",
+                    "val": 1.0155
+                },
+                {
+                    "exposure": "Vodacom Group Limited",
+                    "val": 1.4801
+                },
+                {
+                    "exposure": "The Spar Group Ltd",
+                    "val": 1.4843
+                },
+                {
+                    "exposure": "Ascendis Health Ltd",
+                    "val": 1.498
+                },
+                {
+                    "exposure": "Tiger Brands Ltd",
+                    "val": 1.5153
+                },
+                {
+                    "exposure": "Famous Brands Ltd",
+                    "val": 1.5326
+                },
+                {
+                    "exposure": "City Lodge Hotels Limited",
+                    "val": 1.6636
+                },
+                {
+                    "exposure": "Sanlam Limited",
+                    "val": 1.7715
+                },
+                {
+                    "exposure": "Bid Corporation Ltd",
+                    "val": 1.7758
+                },
+                {
+                    "exposure": "The Bidvest Group Limited",
+                    "val": 1.8361
+                },
+                {
+                    "exposure": "Woolworths Holdings Limited",
+                    "val": 2.011
+                },
+                {
+                    "exposure": "Hudaco Industries Limited",
+                    "val": 2.0225
+                },
+                {
+                    "exposure": "Old Mutual Plc",
+                    "val": 2.0362
+                },
+                {
+                    "exposure": "Avi Ltd",
+                    "val": 2.042
+                },
+                {
+                    "exposure": "Coronation Fund Managers Limited",
+                    "val": 2.0625
+                },
+                {
+                    "exposure": "Mondi Plc Pre",
+                    "val": 2.1874
+                },
+                {
+                    "exposure": "Compagnie Fin Richemont",
+                    "val": 2.5119
+                },
+                {
+                    "exposure": "Anglo American Plc",
+                    "val": 2.649
+                },
+                {
+                    "exposure": "Nepi Rockcastle PLC",
+                    "val": 2.6806
+                },
+                {
+                    "exposure": "Anheusher-Busch Inbev SA/NV",
+                    "val": 2.7632
+                },
+                {
+                    "exposure": "Aspen Pharmacare Holdings",
+                    "val": 2.8168
+                },
+                {
+                    "exposure": "Santam Ltd",
+                    "val": 2.9655
+                },
+                {
+                    "exposure": "EOH Ltd",
+                    "val": 3.0095
+                },
+                {
+                    "exposure": "Standard Bank Group Limited",
+                    "val": 3.3361
+                },
+                {
+                    "exposure": "Firstrand Limited",
+                    "val": 4.0238
+                },
+                {
+                    "exposure": "BHP Billiton Plc",
+                    "val": 5.0105
+                },
+                {
+                    "exposure": "British American Tobacco Plc",
+                    "val": 5.1962
+                },
+                {
+                    "exposure": "Cash",
+                    "val": 5.3013
+                },
+                {
+                    "exposure": "Naspers Limited",
+                    "val": 10.4503
+                },
+                {
+                    "exposure": "SMM Equity Index B6",
+                    "val": 17.4459
                 }
             ],
             "topHoldings": [
