@@ -35,7 +35,7 @@
             },
             {
                 "titleName": "Initial Management Fee (excl. VAT)",
-                "titleValue": 0
+                "titleValue": 0.00
             },
             {
                 "titleName": "Annual Management Fee (excl. VAT)",
@@ -651,6 +651,38 @@
                     "riskElementName": "Months outperformed benchmark (%)",
                     "riskValueFund": 57.14,
                     "riskValueBenchmark": null
+                },
+                {
+                    "riskElementName": "Highest Annual Performance (%) *",
+                    "riskValueFund": 22.58,
+                    "riskValueBenchmark": 16.04
+                },
+                {
+                    "riskElementName": "Lowest Annual Performance (%) **",
+                    "riskValueFund": -7.42,
+                    "riskValueBenchmark": -6.76
+                }
+            ],
+            "riskStatsNotes": [
+                {
+                    "NoteSequence": 1,
+                    "Asterisk": "*",
+                    "WorstAnnualisedNotes": "Fund's highest 12-month return ending 28 February 2015"
+                },
+                {
+                    "NoteSequence": 2,
+                    "Asterisk": null,
+                    "WorstAnnualisedNotes": "Benchmark's highest 12-month return ending 31 January 2015"
+                },
+                {
+                    "NoteSequence": 3,
+                    "Asterisk": "**",
+                    "WorstAnnualisedNotes": "Fund's lowest 12-month return ending 29 February 2016"
+                },
+                {
+                    "NoteSequence": 4,
+                    "Asterisk": null,
+                    "WorstAnnualisedNotes": "Benchmark's lowest 12-month return ending 29 February 2016"
                 }
             ]
         },
@@ -995,6 +1027,86 @@
                     "val": 2.7632
                 }
             ]
-        }
+        },
+        "mandate": [
+            {
+                "Sequence": 2,
+                "Content": "At least 70% of assets to be invested in South African markets"
+            },
+            {
+                "Sequence": 3,
+                "Content": "Up to 25% of assets may be invested outside of Africa"
+            },
+            {
+                "Sequence": 4,
+                "Content": "An additional 5% of assets may be invested in Africa (ex SA)"
+            },
+            {
+                "Sequence": 5,
+                "Content": "At least 80% of assets to be invested in equity securities"
+            }
+        ],
+        "investorProfile": [
+            {
+                "Sequence": 2,
+                "Content": "Seek exposure to JSE-listed equities to provide long-term capital growth"
+            },
+            {
+                "Sequence": 3,
+                "Content": "Are comfortable with stock market fluctuation (i.e. short to medium term volatility)"
+            },
+            {
+                "Sequence": 4,
+                "Content": "Are prepared to take on the risk of capital loss"
+            },
+            {
+                "Sequence": 5,
+                "Content": "Wish to use the Fund as an equity \"building block\" in a diversified multi-asset class portfolio"
+            }
+        ],
+        "feesAndPricing": [
+            {
+                "Sequence": -1,
+                "GroupTitle": null,
+                "NodeName": "tic",
+                "NodeTitle": "Total Investment Charge (incl. VAT period end 30 Sep 2017)",
+                "Val": 0.78
+            },
+            {
+                "Sequence": 0,
+                "GroupTitle": null,
+                "NodeName": "ter",
+                "NodeTitle": "    Total Expense Ratio",
+                "Val": 0.57
+            },
+            {
+                "Sequence": 1,
+                "GroupTitle": null,
+                "NodeName": "tc",
+                "NodeTitle": "    Transaction Cost",
+                "Val": 0.21
+            },
+            {
+                "Sequence": 2,
+                "GroupTitle": "management",
+                "NodeName": "initialManagement",
+                "NodeTitle": "Initial Management Fee (excl. VAT)",
+                "Val": 0.00
+            },
+            {
+                "Sequence": 3,
+                "GroupTitle": "management",
+                "NodeName": "ongoingManagement",
+                "NodeTitle": "Annual Management Fee (excl. VAT)",
+                "Val": "*"
+            },
+            {
+                "Sequence": 6,
+                "GroupTitle": null,
+                "NodeName": "performance",
+                "NodeTitle": "Performance Fees",
+                "Val": "N/A"
+            }
+        ]
     }
 }
