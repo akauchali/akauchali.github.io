@@ -2,7 +2,8 @@
     "FactSheetCIS": {
         "fundDetails": {
             "Benchmark": "Median of Sector",
-            "factsheetDate": "2017-10-31",
+            "dataDate": "23 Dec 2017",
+            "factsheetDate": "31 Oct 2017",
             "fundClass": "E",
             "FundClassLaunchDate": "1 September 2013",
             "fundName": "Hollard Prime Equity Fund",
