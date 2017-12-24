@@ -2,7 +2,7 @@
     "FactSheetCIS": {
         "fundDetails": {
             "Benchmark": "Median of Sector",
-            "dataDate": "Dec 23 2017  9:49PM",
+            "dataDate": "Dec 24 2017 11:05AM",
             "factsheetDate": "31 Oct 2017",
             "fundClass": "E",
             "FundClassLaunchDate": "1 September 2013",
@@ -79,49 +79,49 @@
             "periods": [
                 {
                     "periodLong": "1 month",
-                    "Period": "1m",
+                    "period": "1m",
                     "Fund": 4.3266,
                     "Benchmark": 5.3364
                 },
                 {
                     "periodLong": "3 months",
-                    "Period": "3m",
+                    "period": "3m",
                     "Fund": 5.4492,
                     "Benchmark": 6.2397
                 },
                 {
                     "periodLong": "6 months",
-                    "Period": "6m",
+                    "period": "6m",
                     "Fund": 7.2121,
                     "Benchmark": 6.9246
                 },
                 {
                     "periodLong": "Year to date",
-                    "Period": "ytd",
+                    "period": "ytd",
                     "Fund": 13.8986,
                     "Benchmark": 12.5687
                 },
                 {
                     "periodLong": "1 year",
-                    "Period": "1y",
+                    "period": "1y",
                     "Fund": 13.2476,
                     "Benchmark": 13.0286
                 },
                 {
                     "periodLong": "2 years annualised",
-                    "Period": "2y ann",
+                    "period": "2y ann",
                     "Fund": 5.5615,
                     "Benchmark": 4.076
                 },
                 {
                     "periodLong": "3 years annualised",
-                    "Period": "3y ann",
+                    "period": "3y ann",
                     "Fund": 6.5451,
                     "Benchmark": 5.6364
                 },
                 {
                     "periodLong": "Since inception annualised (49 months)",
-                    "Period": "since inc. ann",
+                    "period": "since inc. ann",
                     "Fund": 9.5017,
                     "Benchmark": 7.7831
                 }
