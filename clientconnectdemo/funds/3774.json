@@ -2,7 +2,7 @@
     "FactSheetCIS": {
         "fundDetails": {
             "Benchmark": "Median of Sector",
-            "dataDate": "Dec 24 2017 11:05AM",
+            "dataDate": "Dec 24 2017 12:34PM",
             "factsheetDate": "31 Oct 2017",
             "fundClass": "E",
             "FundClassLaunchDate": "1 September 2013",
@@ -49,16 +49,16 @@
         ],
         "income": [
             {
-                "date": "Aug 2017",
-                "interest": 0.0721,
-                "dividends": 1.5517,
-                "REITS": 0.0999
-            },
-            {
                 "date": "Feb 2017",
                 "interest": 0,
                 "dividends": 4.021,
                 "REITS": 0.1944
+            },
+            {
+                "date": "Aug 2017",
+                "interest": 0.0721,
+                "dividends": 1.5517,
+                "REITS": 0.0999
             }
         ],
         "fundManagers": [
@@ -66,13 +66,15 @@
                 "name": "David Green, CFA MBA",
                 "title": "Chief Investment Officer",
                 "cvShort": "Since the late 1990's, David has held senior investment management roles at ACSIS, NedGroup Investments and PPS Investments. Before joining the financial services sector, he spent almost a decade as a commercial and litigation attorney.",
-                "profilePic": "5e7ac03ad6233b03fe08812a653cab00.png"
+                "profilePic": "5e7ac03ad6233b03fe08812a653cab00.png",
+                "imagePath": null
             },
             {
                 "name": "Ashveena Teeluckdharry-Khusial, CFA CAIA",
                 "title": "Head: Investment Management",
                 "cvShort": "Ashveena manages the Hollard Prime Unit Trust Funds and oversees the investment process. She is responsible for the asset allocation, manager research, portfolio construction and monitoring of the Hollard Prime Unit Trust Funds. Ashveena joined Hollard Investments in May 2015, from Liberty Financial Solutions where she managed the Liberty shareholder investment portfolio. Ashveena started her career at PPS Investments. ",
-                "profilePic": "6fe09506eb1250f0c39886b21a6a3d1d.png"
+                "profilePic": "6fe09506eb1250f0c39886b21a6a3d1d.png",
+                "imagePath": null
             }
         ],
         "performance": {
