@@ -2,121 +2,125 @@
     "FundList": {
         "fundGroups": [
             {
-                "fundGroup": {
-                    "heading": "Specialist funds",
-                    "subHeading": "Equity funds",
-                    "description": "For specialist funds, a short paragraph describing your fund group goes here. Try to keep this section short as you do not want list of funds to be overwhelmed by it.",
-                    "funds": [
-                        {
-                            "OfficialCode": "HPDIF",
-                            "BKInstrumentId": "HPDIF",
-                            "InstrumentName": "Hollard Prime Dynamic Income B",
-                            "PortfolioName": "Hollard Prime Dynamic Income Fund",
-                            "BKPortfolioId": "FS0000ACA3",
-                            "PortfolioClassMarketingCode": "B",
-                            "ASISAClassification": "South African - Multi Asset - Income",
-                            "RiskRatingTypeKey": 2,
-                            "FormattedReturn12Months": "+8.17%",
-                            "Return12Months": 8.16557631615613
-                        },
-                        {
-                            "OfficialCode": "HPEFB",
-                            "BKInstrumentId": "HPEFB",
-                            "InstrumentName": "Hollard Prime Equity B",
-                            "PortfolioName": "Hollard Prime Equity Fund",
-                            "BKPortfolioId": "FS0000AC9B",
-                            "PortfolioClassMarketingCode": "B",
-                            "ASISAClassification": "South African - Equity - General",
-                            "RiskRatingTypeKey": 5,
-                            "FormattedReturn12Months": "+16.88%",
-                            "Return12Months": 16.8812326660906
-                        },
-                        {
-                            "OfficialCode": "HPMMF",
-                            "BKInstrumentId": "HPMMF",
-                            "InstrumentName": "Hollard Prime Money Market B",
-                            "PortfolioName": "Hollard Prime Money Market Fund",
-                            "BKPortfolioId": "FS0000ACA4",
-                            "PortfolioClassMarketingCode": "B",
-                            "ASISAClassification": "South African - Interest Bearing - Money Market",
-                            "RiskRatingTypeKey": 1,
-                            "FormattedReturn12Months": "+7.28%",
-                            "Return12Months": 7.27641377355765
-                        },
-                        {
-                            "OfficialCode": "HPPFC",
-                            "BKInstrumentId": "HPPFC",
-                            "InstrumentName": "Hollard Prime Property B",
-                            "PortfolioName": "Hollard Prime Property Fund",
-                            "BKPortfolioId": "FS0000ACA1",
-                            "PortfolioClassMarketingCode": "B",
-                            "ASISAClassification": "South African - Real Estate - General",
-                            "RiskRatingTypeKey": 5,
-                            "FormattedReturn12Months": "+19.37%",
-                            "Return12Months": 19.37089694965
-                        },
-                        {
-                            "OfficialCode": "HPYPF",
-                            "BKInstrumentId": "HPYPF",
-                            "InstrumentName": "Hollard Prime Yield-Plus B",
-                            "PortfolioName": "Hollard Prime Yield-Plus Fund",
-                            "BKPortfolioId": "FS0000ACA2",
-                            "PortfolioClassMarketingCode": "B",
-                            "ASISAClassification": "South African - Interest Bearing - Short Term",
-                            "RiskRatingTypeKey": 1,
-                            "FormattedReturn12Months": "+8.37%",
-                            "Return12Months": 8.3739623249572
-                        }
-                    ]
-                }
+                "heading": "Specialist funds",
+                "subHeading": "Equity funds",
+                "description": "For specialist funds, a short paragraph describing your fund group goes here. Try to keep this section short as you do not want list of funds to be overwhelmed by it.",
+                "funds": [
+                    {
+                        "OfficialCode": "HPDIF",
+                        "BKInstrumentId": "HPDIF",
+                        "InstrumentName": "Hollard Prime Dynamic Income B",
+                        "PortfolioName": "Hollard Prime Dynamic Income Fund",
+                        "BKPortfolioId": "FS0000ACA3",
+                        "PortfolioClassMarketingCode": "B",
+                        "ASISAClassification": "South African - Multi Asset - Income",
+                        "RiskRatingTypeKey": 2,
+                        "FormattedReturn12Months": "+8.17%",
+                        "Return12Months": 8.16557631615613,
+                        "url": "/detail-page/?code=HPDIF"
+                    },
+                    {
+                        "OfficialCode": "HPEFB",
+                        "BKInstrumentId": "HPEFB",
+                        "InstrumentName": "Hollard Prime Equity B",
+                        "PortfolioName": "Hollard Prime Equity Fund",
+                        "BKPortfolioId": "FS0000AC9B",
+                        "PortfolioClassMarketingCode": "B",
+                        "ASISAClassification": "South African - Equity - General",
+                        "RiskRatingTypeKey": 5,
+                        "FormattedReturn12Months": "+16.88%",
+                        "Return12Months": 16.8812326660906,
+                        "url": "/detail-page/?code=HPEFB"
+                    },
+                    {
+                        "OfficialCode": "HPMMF",
+                        "BKInstrumentId": "HPMMF",
+                        "InstrumentName": "Hollard Prime Money Market B",
+                        "PortfolioName": "Hollard Prime Money Market Fund",
+                        "BKPortfolioId": "FS0000ACA4",
+                        "PortfolioClassMarketingCode": "B",
+                        "ASISAClassification": "South African - Interest Bearing - Money Market",
+                        "RiskRatingTypeKey": 1,
+                        "FormattedReturn12Months": "+7.28%",
+                        "Return12Months": 7.27641377355765,
+                        "url": "/detail-page/?code=HPMMF"
+                    },
+                    {
+                        "OfficialCode": "HPPFC",
+                        "BKInstrumentId": "HPPFC",
+                        "InstrumentName": "Hollard Prime Property B",
+                        "PortfolioName": "Hollard Prime Property Fund",
+                        "BKPortfolioId": "FS0000ACA1",
+                        "PortfolioClassMarketingCode": "B",
+                        "ASISAClassification": "South African - Real Estate - General",
+                        "RiskRatingTypeKey": 5,
+                        "FormattedReturn12Months": "+19.37%",
+                        "Return12Months": 19.37089694965,
+                        "url": "/detail-page/?code=HPPFC"
+                    },
+                    {
+                        "OfficialCode": "HPYPF",
+                        "BKInstrumentId": "HPYPF",
+                        "InstrumentName": "Hollard Prime Yield-Plus B",
+                        "PortfolioName": "Hollard Prime Yield-Plus Fund",
+                        "BKPortfolioId": "FS0000ACA2",
+                        "PortfolioClassMarketingCode": "B",
+                        "ASISAClassification": "South African - Interest Bearing - Short Term",
+                        "RiskRatingTypeKey": 1,
+                        "FormattedReturn12Months": "+8.37%",
+                        "Return12Months": 8.3739623249572,
+                        "url": "/detail-page/?code=HPYPF"
+                    }
+                ]
             },
             {
-                "fundGroup": {
-                    "heading": "Fund of funds",
-                    "subHeading": "Multi-asset funds",
-                    "description": "For fund of funds, a short paragraph describing your next fund group. Still try to keep this section short as you do not want list of funds to be overwhelmed by it.",
-                    "funds": [
-                        {
-                            "OfficialCode": "HPSDF",
-                            "BKInstrumentId": "HPSDF",
-                            "InstrumentName": "Hollard Prime Strategic Defensive FoF B",
-                            "PortfolioName": "Hollard Prime Strategic Defensive Fund of Funds",
-                            "BKPortfolioId": "FS0000AC9A",
-                            "AsAtDate": "01 Nov 2017",
-                            "PortfolioClassMarketingCode": "B",
-                            "ASISAClassification": "South African - Multi Asset - Low Equity",
-                            "RiskRatingTypeKey": 2,
-                            "FormattedReturn12Months": "+11.58%",
-                            "Return12Months": 11.5755410616242
-                        },
-                        {
-                            "OfficialCode": "HPSBF",
-                            "BKInstrumentId": "HPSBF",
-                            "InstrumentName": "Hollard Prime Strategic Balanced FoF B",
-                            "PortfolioName": "Hollard Prime Strategic Balanced Fund of Funds",
-                            "BKPortfolioId": "FS0000AC98",
-                            "AsAtDate": "01 Nov 2017",
-                            "PortfolioClassMarketingCode": "B",
-                            "ASISAClassification": "South African - Multi Asset - Medium Equity",
-                            "RiskRatingTypeKey": 3,
-                            "FormattedReturn12Months": "+13.26%",
-                            "Return12Months": 13.2584577127875
-                        },
-                        {
-                            "OfficialCode": "HPSAF",
-                            "BKInstrumentId": "HPSAF",
-                            "InstrumentName": "Hollard Prime Strategic Assertive FoF B",
-                            "PortfolioName": "Hollard Prime Strategic Assertive Fund of Funds",
-                            "BKPortfolioId": "FS0000AC99",
-                            "AsAtDate": "01 Nov 2017",
-                            "PortfolioClassMarketingCode": "B",
-                            "ASISAClassification": "South African - Multi Asset - High Equity",
-                            "RiskRatingTypeKey": 4,
-                            "FormattedReturn12Months": "+14.60%",
-                            "Return12Months": 14.6029335891605
-                        }
-                    ]
-                }
+                "heading": "Fund of funds",
+                "subHeading": "Multi-asset funds",
+                "description": "For fund of funds, a short paragraph describing your next fund group. Still try to keep this section short as you do not want list of funds to be overwhelmed by it.",
+                "funds": [
+                    {
+                        "OfficialCode": "HPSDF",
+                        "BKInstrumentId": "HPSDF",
+                        "InstrumentName": "Hollard Prime Strategic Defensive FoF B",
+                        "PortfolioName": "Hollard Prime Strategic Defensive Fund of Funds",
+                        "BKPortfolioId": "FS0000AC9A",
+                        "AsAtDate": "01 Nov 2017",
+                        "PortfolioClassMarketingCode": "B",
+                        "ASISAClassification": "South African - Multi Asset - Low Equity",
+                        "RiskRatingTypeKey": 2,
+                        "FormattedReturn12Months": "+11.58%",
+                        "Return12Months": 11.5755410616242,
+                        "url": "/detail-page/?code=HPSDF"
+                    },
+                    {
+                        "OfficialCode": "HPSBF",
+                        "BKInstrumentId": "HPSBF",
+                        "InstrumentName": "Hollard Prime Strategic Balanced FoF B",
+                        "PortfolioName": "Hollard Prime Strategic Balanced Fund of Funds",
+                        "BKPortfolioId": "FS0000AC98",
+                        "AsAtDate": "01 Nov 2017",
+                        "PortfolioClassMarketingCode": "B",
+                        "ASISAClassification": "South African - Multi Asset - Medium Equity",
+                        "RiskRatingTypeKey": 3,
+                        "FormattedReturn12Months": "+13.26%",
+                        "Return12Months": 13.2584577127875,
+                        "url": "/detail-page/?code=HPSBF"
+                    },
+                    {
+                        "OfficialCode": "HPSAF",
+                        "BKInstrumentId": "HPSAF",
+                        "InstrumentName": "Hollard Prime Strategic Assertive FoF B",
+                        "PortfolioName": "Hollard Prime Strategic Assertive Fund of Funds",
+                        "BKPortfolioId": "FS0000AC99",
+                        "AsAtDate": "01 Nov 2017",
+                        "PortfolioClassMarketingCode": "B",
+                        "ASISAClassification": "South African - Multi Asset - High Equity",
+                        "RiskRatingTypeKey": 4,
+                        "FormattedReturn12Months": "+14.60%",
+                        "Return12Months": 14.6029335891605,
+                        "url": "/detail-page/?code=HPSAF"
+                    }
+                ]
             }
         ]
     }
