@@ -1,0 +1,1008 @@
+{
+    "FactSheetCIS": {
+        "fundDetails": {
+            "Benchmark": "Median of Sector",
+            "dataDate": "Dec 27 2017 11:45PM",
+            "factsheetDate": "30 Nov 2017",
+            "fundClass": "E",
+            "FundClassLaunchDate": "1 October 2013",
+            "fundName": "Hollard Prime Property Fund",
+            "FundSector": "South African - Real Estate - General",
+            "FundSize": "R111 951 558 ",
+            "IncomeDistributionDates": "Semi annually (Feb and Aug)",
+            "InvestmentHorizon": "Long term - 5 year rolling periods or longer",
+            "ISIN": "ZAE000182127",
+            "Objective": "The primary investment objective of the fund is high levels of income and long-term capital growth, through investments in listed property shares, collective investment schemes in property and property loan stock and real estate investment trusts and other high-yielding securities.",
+            "OfficialCode": "HPPCE",
+            "PricePerUnit": "161.09 cents",
+            "Reg28Compliance": "Not compliant",
+            "riskRating": 5,
+            "riskRatingText": "Aggressive",
+            "UnderlyingOrPortfolioManagers": "Sesfikile Capital (Pty) Ltd"
+        },
+        "feesAndExpenses": [
+            {
+                "titleName": "Total Investment Charge (incl. VAT period end 30 Sep 2017)",
+                "titleValue": 0.96
+            },
+            {
+                "titleName": "    Total Expense Ratio",
+                "titleValue": 0.73
+            },
+            {
+                "titleName": "    Transaction Cost",
+                "titleValue": 0.23
+            },
+            {
+                "titleName": "Initial Management Fee (excl. VAT)",
+                "titleValue": 0.00
+            },
+            {
+                "titleName": "Annual Management Fee (excl. VAT)",
+                "titleValue": "*"
+            },
+            {
+                "titleName": "Performance Fees",
+                "titleValue": "N/A"
+            }
+        ],
+        "income": [
+            {
+                "date": "Feb 2017",
+                "interest": 0.1403,
+                "dividends": 3.3497,
+                "REITS": 2.8434
+            },
+            {
+                "date": "Aug 2017",
+                "interest": 0.1974,
+                "dividends": 4.2205,
+                "REITS": 3.5449
+            }
+        ],
+        "fundManagers": [
+            {
+                "name": "David Green, CFA MBA",
+                "title": "Chief Investment Officer",
+                "cvShort": "Since the late 1990's, David has held senior investment management roles at ACSIS, NedGroup Investments and PPS Investments. Before joining the financial services sector, he spent almost a decade as a commercial and litigation attorney.",
+                "profilePic": "5e7ac03ad6233b03fe08812a653cab00.png",
+                "imagePath": null
+            },
+            {
+                "name": "Ashveena Teeluckdharry-Khusial, CFA CAIA",
+                "title": "Head: Investment Management",
+                "cvShort": "Ashveena manages the Hollard Prime Unit Trust Funds and oversees the investment process. She is responsible for the asset allocation, manager research, portfolio construction and monitoring of the Hollard Prime Unit Trust Funds. Ashveena joined Hollard Investments in May 2015, from Liberty Financial Solutions where she managed the Liberty shareholder investment portfolio. Ashveena started her career at PPS Investments. ",
+                "profilePic": "6fe09506eb1250f0c39886b21a6a3d1d.png",
+                "imagePath": null
+            }
+        ],
+        "performance": {
+            "periods": [
+                {
+                    "periodLong": "1 month",
+                    "period": "1m",
+                    "Fund": 1.9234,
+                    "Benchmark": 1.4128
+                },
+                {
+                    "periodLong": "3 months",
+                    "period": "3m",
+                    "Fund": 6.1222,
+                    "Benchmark": 5.0075
+                },
+                {
+                    "periodLong": "6 months",
+                    "period": "6m",
+                    "Fund": 11.6173,
+                    "Benchmark": 9.3421
+                },
+                {
+                    "periodLong": "Year to date",
+                    "period": "ytd",
+                    "Fund": 15.409,
+                    "Benchmark": 11.7494
+                },
+                {
+                    "periodLong": "1 year",
+                    "period": "1y",
+                    "Fund": 20.4966,
+                    "Benchmark": 16.1045
+                },
+                {
+                    "periodLong": "2 years annualised",
+                    "period": "2y ann",
+                    "Fund": 9.4507,
+                    "Benchmark": 6.9065
+                },
+                {
+                    "periodLong": "3 years annualised",
+                    "period": "3y ann",
+                    "Fund": 13.6743,
+                    "Benchmark": 10.9038
+                },
+                {
+                    "periodLong": "Since inception annualised (50 months)",
+                    "period": "since inc. ann",
+                    "Fund": 16.6366,
+                    "Benchmark": 13.7435
+                }
+            ],
+            "cumulative": [
+                {
+                    "month": "2013-09-30",
+                    "Fund": 100,
+                    "Benchmark": 100
+                },
+                {
+                    "month": "2013-10-31",
+                    "Fund": 103.45,
+                    "Benchmark": 103.0261
+                },
+                {
+                    "month": "2013-11-30",
+                    "Fund": 100.81,
+                    "Benchmark": 99.9768
+                },
+                {
+                    "month": "2013-12-31",
+                    "Fund": 102.45,
+                    "Benchmark": 101.5717
+                },
+                {
+                    "month": "2014-01-31",
+                    "Fund": 95.3,
+                    "Benchmark": 94.4969
+                },
+                {
+                    "month": "2014-02-28",
+                    "Fund": 99.99,
+                    "Benchmark": 98.0613
+                },
+                {
+                    "month": "2014-03-31",
+                    "Fund": 104.1799,
+                    "Benchmark": 102.4402
+                },
+                {
+                    "month": "2014-04-30",
+                    "Fund": 106.9012,
+                    "Benchmark": 104.7576
+                },
+                {
+                    "month": "2014-05-31",
+                    "Fund": 105.7107,
+                    "Benchmark": 104.2364
+                },
+                {
+                    "month": "2014-06-30",
+                    "Fund": 109.4425,
+                    "Benchmark": 107.3598
+                },
+                {
+                    "month": "2014-07-31",
+                    "Fund": 111.6035,
+                    "Benchmark": 109.191
+                },
+                {
+                    "month": "2014-08-31",
+                    "Fund": 115.3353,
+                    "Benchmark": 112.4933
+                },
+                {
+                    "month": "2014-09-30",
+                    "Fund": 118.038,
+                    "Benchmark": 114.9308
+                },
+                {
+                    "month": "2014-10-31",
+                    "Fund": 125.6372,
+                    "Benchmark": 121.9723
+                },
+                {
+                    "month": "2014-11-30",
+                    "Fund": 129.268,
+                    "Benchmark": 125.3684
+                },
+                {
+                    "month": "2014-12-31",
+                    "Fund": 131.5181,
+                    "Benchmark": 127.3266
+                },
+                {
+                    "month": "2015-01-31",
+                    "Fund": 140.8049,
+                    "Benchmark": 136.2024
+                },
+                {
+                    "month": "2015-02-28",
+                    "Fund": 145.7653,
+                    "Benchmark": 140.3787
+                },
+                {
+                    "month": "2015-03-31",
+                    "Fund": 149.8743,
+                    "Benchmark": 144.2007
+                },
+                {
+                    "month": "2015-04-30",
+                    "Fund": 150.6477,
+                    "Benchmark": 145.0211
+                },
+                {
+                    "month": "2015-05-31",
+                    "Fund": 142.9032,
+                    "Benchmark": 137.4513
+                },
+                {
+                    "month": "2015-06-30",
+                    "Fund": 143.4885,
+                    "Benchmark": 136.6834
+                },
+                {
+                    "month": "2015-07-31",
+                    "Fund": 150.9508,
+                    "Benchmark": 143.4756
+                },
+                {
+                    "month": "2015-08-31",
+                    "Fund": 151.0449,
+                    "Benchmark": 143.5999
+                },
+                {
+                    "month": "2015-09-30",
+                    "Fund": 152.8415,
+                    "Benchmark": 145.9243
+                },
+                {
+                    "month": "2015-10-31",
+                    "Fund": 156.1556,
+                    "Benchmark": 148.9647
+                },
+                {
+                    "month": "2015-11-30",
+                    "Fund": 158.5043,
+                    "Benchmark": 149.6305
+                },
+                {
+                    "month": "2015-12-31",
+                    "Fund": 150.1925,
+                    "Benchmark": 142.0747
+                },
+                {
+                    "month": "2016-01-31",
+                    "Fund": 145.6022,
+                    "Benchmark": 136.7283
+                },
+                {
+                    "month": "2016-02-29",
+                    "Fund": 149.4846,
+                    "Benchmark": 140.8359
+                },
+                {
+                    "month": "2016-03-31",
+                    "Fund": 163.3287,
+                    "Benchmark": 152.2447
+                },
+                {
+                    "month": "2016-04-30",
+                    "Fund": 166.3104,
+                    "Benchmark": 154.8177
+                },
+                {
+                    "month": "2016-05-31",
+                    "Fund": 161.745,
+                    "Benchmark": 151.5575
+                },
+                {
+                    "month": "2016-06-30",
+                    "Fund": 163.4707,
+                    "Benchmark": 151.837
+                },
+                {
+                    "month": "2016-07-31",
+                    "Fund": 168.6149,
+                    "Benchmark": 155.8776
+                },
+                {
+                    "month": "2016-08-31",
+                    "Fund": 160.6746,
+                    "Benchmark": 149.8909
+                },
+                {
+                    "month": "2016-09-30",
+                    "Fund": 162.4693,
+                    "Benchmark": 151.3851
+                },
+                {
+                    "month": "2016-10-31",
+                    "Fund": 163.1293,
+                    "Benchmark": 151.5929
+                },
+                {
+                    "month": "2016-11-30",
+                    "Fund": 157.5809,
+                    "Benchmark": 147.2919
+                },
+                {
+                    "month": "2016-12-31",
+                    "Fund": 164.5276,
+                    "Benchmark": 153.0322
+                },
+                {
+                    "month": "2017-01-31",
+                    "Fund": 166.8544,
+                    "Benchmark": 155.4757
+                },
+                {
+                    "month": "2017-02-28",
+                    "Fund": 166.5411,
+                    "Benchmark": 155.181
+                },
+                {
+                    "month": "2017-03-31",
+                    "Fund": 167.2873,
+                    "Benchmark": 155.6125
+                },
+                {
+                    "month": "2017-04-30",
+                    "Fund": 168.3756,
+                    "Benchmark": 156.3129
+                },
+                {
+                    "month": "2017-05-31",
+                    "Fund": 170.1167,
+                    "Benchmark": 156.4014
+                },
+                {
+                    "month": "2017-06-30",
+                    "Fund": 170.8269,
+                    "Benchmark": 156.8753
+                },
+                {
+                    "month": "2017-07-31",
+                    "Fund": 177.0354,
+                    "Benchmark": 162.1856
+                },
+                {
+                    "month": "2017-08-31",
+                    "Fund": 178.9255,
+                    "Benchmark": 162.8575
+                },
+                {
+                    "month": "2017-09-30",
+                    "Fund": 181.9115,
+                    "Benchmark": 165.8341
+                },
+                {
+                    "month": "2017-10-31",
+                    "Fund": 186.2963,
+                    "Benchmark": 168.6301
+                },
+                {
+                    "month": "2017-11-30",
+                    "Fund": 189.8796,
+                    "Benchmark": 171.0126
+                }
+            ],
+            "maximumDrawDowns": [
+                {
+                    "month": "2013-09-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2013-10-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2013-11-30",
+                    "Fund": -2.552,
+                    "Benchmark": -2.9597
+                },
+                {
+                    "month": "2013-12-31",
+                    "Fund": -0.9667,
+                    "Benchmark": -1.4117
+                },
+                {
+                    "month": "2014-01-31",
+                    "Fund": -7.8782,
+                    "Benchmark": -8.2787
+                },
+                {
+                    "month": "2014-02-28",
+                    "Fund": -3.3446,
+                    "Benchmark": -4.8189
+                },
+                {
+                    "month": "2014-03-31",
+                    "Fund": 0,
+                    "Benchmark": -0.5687
+                },
+                {
+                    "month": "2014-04-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2014-05-31",
+                    "Fund": -1.1137,
+                    "Benchmark": -0.4975
+                },
+                {
+                    "month": "2014-06-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2014-07-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2014-08-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2014-09-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2014-10-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2014-11-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2014-12-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2015-01-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2015-02-28",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2015-03-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2015-04-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2015-05-31",
+                    "Fund": -5.1408,
+                    "Benchmark": -5.2198
+                },
+                {
+                    "month": "2015-06-30",
+                    "Fund": -4.7523,
+                    "Benchmark": -5.7493
+                },
+                {
+                    "month": "2015-07-31",
+                    "Fund": 0,
+                    "Benchmark": -1.0657
+                },
+                {
+                    "month": "2015-08-31",
+                    "Fund": 0,
+                    "Benchmark": -0.98
+                },
+                {
+                    "month": "2015-09-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2015-10-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2015-11-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2015-12-31",
+                    "Fund": -5.2439,
+                    "Benchmark": -5.0496
+                },
+                {
+                    "month": "2016-01-31",
+                    "Fund": -8.1399,
+                    "Benchmark": -8.6227
+                },
+                {
+                    "month": "2016-02-29",
+                    "Fund": -5.6905,
+                    "Benchmark": -5.8776
+                },
+                {
+                    "month": "2016-03-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2016-04-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2016-05-31",
+                    "Fund": -2.7451,
+                    "Benchmark": -2.1059
+                },
+                {
+                    "month": "2016-06-30",
+                    "Fund": -1.7075,
+                    "Benchmark": -1.9253
+                },
+                {
+                    "month": "2016-07-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2016-08-31",
+                    "Fund": -4.7092,
+                    "Benchmark": -3.8406
+                },
+                {
+                    "month": "2016-09-30",
+                    "Fund": -3.6448,
+                    "Benchmark": -2.882
+                },
+                {
+                    "month": "2016-10-31",
+                    "Fund": -3.2533,
+                    "Benchmark": -2.7488
+                },
+                {
+                    "month": "2016-11-30",
+                    "Fund": -6.5439,
+                    "Benchmark": -5.508
+                },
+                {
+                    "month": "2016-12-31",
+                    "Fund": -2.4241,
+                    "Benchmark": -1.8254
+                },
+                {
+                    "month": "2017-01-31",
+                    "Fund": -1.0441,
+                    "Benchmark": -0.2578
+                },
+                {
+                    "month": "2017-02-28",
+                    "Fund": -1.2299,
+                    "Benchmark": -0.4469
+                },
+                {
+                    "month": "2017-03-31",
+                    "Fund": -0.7874,
+                    "Benchmark": -0.1701
+                },
+                {
+                    "month": "2017-04-30",
+                    "Fund": -0.142,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2017-05-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2017-06-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2017-07-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2017-08-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2017-09-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2017-10-31",
+                    "Fund": 0,
+                    "Benchmark": 0
+                },
+                {
+                    "month": "2017-11-30",
+                    "Fund": 0,
+                    "Benchmark": 0
+                }
+            ],
+            "riskStats": [
+                {
+                    "riskElementName": "Monthly standard deviation annualised (%)",
+                    "riskValueFund": 10.90,
+                    "riskValueBenchmark": 10.32
+                },
+                {
+                    "riskElementName": "Positive months (%)",
+                    "riskValueFund": 80.00,
+                    "riskValueBenchmark": 78.00
+                },
+                {
+                    "riskElementName": "Maximum drawdown (%)",
+                    "riskValueFund": -8.14,
+                    "riskValueBenchmark": -8.62
+                },
+                {
+                    "riskElementName": "Forward distribution yield (%)",
+                    "riskValueFund": 7.03,
+                    "riskValueBenchmark": null
+                },
+                {
+                    "riskElementName": "Outperformance annualised (%)",
+                    "riskValueFund": 2.89,
+                    "riskValueBenchmark": null
+                },
+                {
+                    "riskElementName": "Months outperformed benchmark (%)",
+                    "riskValueFund": 74.00,
+                    "riskValueBenchmark": null
+                },
+                {
+                    "riskElementName": "Highest Annual Performance (%) *",
+                    "riskValueFund": 47.75,
+                    "riskValueBenchmark": 44.13
+                },
+                {
+                    "riskElementName": "Lowest Annual Performance (%) **",
+                    "riskValueFund": -0.58,
+                    "riskValueBenchmark": -1.56
+                }
+            ],
+            "riskStatsNotes": [
+                {
+                    "NoteSequence": 1,
+                    "Asterisk": "*",
+                    "WorstAnnualisedNotes": "Fund's highest 12-month return ending 31 January 2015"
+                },
+                {
+                    "NoteSequence": 2,
+                    "Asterisk": null,
+                    "WorstAnnualisedNotes": "Benchmark's highest 12-month return ending 31 January 2015"
+                },
+                {
+                    "NoteSequence": 3,
+                    "Asterisk": "**",
+                    "WorstAnnualisedNotes": "Fund's lowest 12-month return ending 30 November 2016"
+                },
+                {
+                    "NoteSequence": 4,
+                    "Asterisk": null,
+                    "WorstAnnualisedNotes": "Benchmark's lowest 12-month return ending 30 November 2016"
+                }
+            ]
+        },
+        "exposure": {
+            "assetClasses": [
+                {
+                    "exposure": "South African Cash",
+                    "val": 8.5596
+                },
+                {
+                    "exposure": "South African Property",
+                    "val": 91.4404
+                }
+            ],
+            "sectors": [
+                {
+                    "exposure": "Cash",
+                    "val": 8.5596
+                },
+                {
+                    "exposure": "Real Estate",
+                    "val": 91.4404
+                }
+            ],
+            "creditRatings": [
+                {
+                    "exposure": "IG6",
+                    "val": 0.3579
+                },
+                {
+                    "exposure": "A-",
+                    "val": 0.542
+                },
+                {
+                    "exposure": "DS5",
+                    "val": 0.6592
+                },
+                {
+                    "exposure": "IG5",
+                    "val": 1.3369
+                },
+                {
+                    "exposure": "IG7",
+                    "val": 3.7764
+                },
+                {
+                    "exposure": "A",
+                    "val": 5.2742
+                },
+                {
+                    "exposure": "IG9",
+                    "val": 5.6756
+                },
+                {
+                    "exposure": "A+",
+                    "val": 9.0869
+                },
+                {
+                    "exposure": "Baa2",
+                    "val": 11.6214
+                },
+                {
+                    "exposure": "Baa3",
+                    "val": 15.1864
+                },
+                {
+                    "exposure": "Unrated",
+                    "val": 46.4831
+                }
+            ],
+            "managers": {
+                "row": {
+                    "exposure": "Sesfikile Capital (Pty) Ltd",
+                    "val": 100
+                }
+            },
+            "underlyingFunds": [
+                {
+                    "exposure": "Sirius Real Estate Ltd",
+                    "val": 0.2589
+                },
+                {
+                    "exposure": "Attacq Limited",
+                    "val": 0.3579
+                },
+                {
+                    "exposure": "Stor-age Property Reit Ltd",
+                    "val": 0.4295
+                },
+                {
+                    "exposure": "Capital & Regional PLC",
+                    "val": 0.4945
+                },
+                {
+                    "exposure": "Investec Australia Prop Fd",
+                    "val": 0.542
+                },
+                {
+                    "exposure": "Intuprop",
+                    "val": 0.5753
+                },
+                {
+                    "exposure": "Dipula Income Fund Ltd A",
+                    "val": 0.6592
+                },
+                {
+                    "exposure": "Fairvest Property Holdings Limited",
+                    "val": 0.6919
+                },
+                {
+                    "exposure": "Emira Property Fund",
+                    "val": 0.8811
+                },
+                {
+                    "exposure": "Hammerson Plc",
+                    "val": 1.218
+                },
+                {
+                    "exposure": "Arrowhead Prop Ltd A",
+                    "val": 1.3369
+                },
+                {
+                    "exposure": "Equites Prop Fund Ltd",
+                    "val": 1.3523
+                },
+                {
+                    "exposure": "SA Corporate Real Esate Fund",
+                    "val": 1.4927
+                },
+                {
+                    "exposure": "Investec Property Fund Ltd",
+                    "val": 1.9296
+                },
+                {
+                    "exposure": "Mas Rei",
+                    "val": 2.6919
+                },
+                {
+                    "exposure": "GREENBAY PROPERTIES LTD",
+                    "val": 3.1129
+                },
+                {
+                    "exposure": "Echo Polska Properties N.V",
+                    "val": 3.3226
+                },
+                {
+                    "exposure": "Vukile Property Fund Limited",
+                    "val": 4.3931
+                },
+                {
+                    "exposure": "Hyprop Investments Limited",
+                    "val": 4.9837
+                },
+                {
+                    "exposure": "Fortress Income Fund Ltd",
+                    "val": 7.6059
+                },
+                {
+                    "exposure": "Cash",
+                    "val": 8.5596
+                },
+                {
+                    "exposure": "Resilient Property Income Fund",
+                    "val": 9.0869
+                },
+                {
+                    "exposure": "Growthpoint Properties Limited",
+                    "val": 11.6214
+                },
+                {
+                    "exposure": "Redefine Properties Ltd",
+                    "val": 13.6937
+                },
+                {
+                    "exposure": "Nepi Rockcastle PLC",
+                    "val": 18.7085
+                }
+            ],
+            "topHoldings": [
+                {
+                    "exposure": "Nepi Rockcastle PLC",
+                    "val": 18.7085
+                },
+                {
+                    "exposure": "Redefine Properties Ltd",
+                    "val": 13.6937
+                },
+                {
+                    "exposure": "Growthpoint Properties Limited",
+                    "val": 11.6214
+                },
+                {
+                    "exposure": "Resilient Property Income Fund",
+                    "val": 9.0869
+                },
+                {
+                    "exposure": "Fortress Income Fund Ltd",
+                    "val": 5.6272
+                },
+                {
+                    "exposure": "Hyprop Investments Limited",
+                    "val": 4.9837
+                },
+                {
+                    "exposure": "Vukile Property Fund Limited",
+                    "val": 4.3931
+                },
+                {
+                    "exposure": "Echo Polska Properties N.V",
+                    "val": 3.3226
+                },
+                {
+                    "exposure": "GREENBAY PROPERTIES LTD",
+                    "val": 3.1129
+                },
+                {
+                    "exposure": "Mas Rei",
+                    "val": 2.6919
+                }
+            ]
+        },
+        "mandate": [
+            {
+                "Sequence": 2,
+                "Content": "At least 70% of assets to be invested in South African markets"
+            },
+            {
+                "Sequence": 3,
+                "Content": "Up to 25% of assets may be invested outside of Africa"
+            },
+            {
+                "Sequence": 4,
+                "Content": "An additional 5% of assets may be invested in Africa (ex SA)"
+            },
+            {
+                "Sequence": 5,
+                "Content": "At least 80% of assets to be invested in shares listed in the FTSE/JSE Real Estate industry group or similar sector of an international stock exchange"
+            },
+            {
+                "Sequence": 6,
+                "Content": "Up to 10% may be invested in shares outside defined sectors in companies that conduct similar business to those in defined sectors"
+            }
+        ],
+        "investorProfile": [
+            {
+                "Sequence": 2,
+                "Content": "Seek exposure to JSE-listed property securities to provide a combination of long-term capital growth and income"
+            },
+            {
+                "Sequence": 3,
+                "Content": "Are comfortable with short & medium term stock market volatility"
+            },
+            {
+                "Sequence": 4,
+                "Content": "Wish to use the Fund as a listed-property \"building block\" in a diversified multi-asset class portfolio"
+            }
+        ],
+        "feesAndPricing": [
+            {
+                "Sequence": -1,
+                "GroupTitle": null,
+                "NodeName": "tic",
+                "NodeTitle": "Total Investment Charge (incl. VAT period end 30 Sep 2017)",
+                "Val": 0.96
+            },
+            {
+                "Sequence": 0,
+                "GroupTitle": null,
+                "NodeName": "ter",
+                "NodeTitle": "    Total Expense Ratio",
+                "Val": 0.73
+            },
+            {
+                "Sequence": 1,
+                "GroupTitle": null,
+                "NodeName": "tc",
+                "NodeTitle": "    Transaction Cost",
+                "Val": 0.23
+            },
+            {
+                "Sequence": 2,
+                "GroupTitle": "management",
+                "NodeName": "initialManagement",
+                "NodeTitle": "Initial Management Fee (excl. VAT)",
+                "Val": 0.00
+            },
+            {
+                "Sequence": 3,
+                "GroupTitle": "management",
+                "NodeName": "ongoingManagement",
+                "NodeTitle": "Annual Management Fee (excl. VAT)",
+                "Val": "*"
+            },
+            {
+                "Sequence": 6,
+                "GroupTitle": null,
+                "NodeName": "performance",
+                "NodeTitle": "Performance Fees",
+                "Val": "N/A"
+            }
+        ]
+    }
+}
